@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "corribot"
+  "defaultProject": "corribot",
+  "cli": {
+    "analytics": "d3dd3f87-800b-4d7b-94e8-1f571f62a169"
+  }
 }
