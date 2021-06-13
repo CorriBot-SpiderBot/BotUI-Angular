@@ -5,10 +5,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './features/home/home.component';
 import { HttpClientModule } from '@angular/common/http';
+import { LeftcontrollerComponent } from './leftcontroller/leftcontroller.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    LeftcontrollerComponent
   ],
   imports: [
     BrowserModule,
